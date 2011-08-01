@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: RuCurrency
-Plugin URI: http://v4w.in/ruscurrency
+Plugin URI: http://v4w.in/ruscurrency/
 Description: Виджет курса валют ЦБ РФ на текущий день. Widget show the exchange rate of The Central Bank of the Russian Federation.
 Version: 1.0
 Author: vHv
-Author URI: http://v4w.in
+Author URI: http://v4w.in/
 License: GPL2
 
 Copyright 2011  Vlad Valiev  (email : vlad4web@meun.ru)
